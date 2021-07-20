@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="94.288216"
+   height="94.288216"
+   viewBox="0 0 24.94709 24.947091"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title815">12 Point Spore</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>12 Point Spore</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>©2020 Bryan McWhirt  ALL RIGHTS RESERVED</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>English</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(110.86517,-20.848744)">
+    <path
+       style="display:inline;opacity:0.996;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.442;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path25112"
+       transform="matrix(0.26458333,0,0,0.26458333,-112.28964,-15.588036)"
+       d="m 86.873117,218.19296 c -12.617523,12.99987 -1.609968,-13.86444 -17.162174,-4.57318 -15.552205,9.29125 13.320306,12.33027 -4.106725,17.27972 -17.427032,4.94946 5.537947,-12.81194 -12.576287,-12.54157 -18.114234,0.27036 5.370588,17.33848 -12.196393,12.91132 -17.566981,-4.42716 11.201973,-8.3265 -4.620594,-17.14947 -15.822567,-8.82298 -4.018175,17.70085 -17.018046,5.08333 C 6.1930255,206.58559 33.057337,217.59314 23.76608,202.04094 14.474824,186.48873 11.43581,215.36124 6.4863522,197.93421 1.5368943,180.50718 19.298293,203.47216 19.027932,185.35792 18.75757,167.24369 1.6894513,190.72851 6.1166107,173.16153 c 4.4271593,-17.56698 8.3264933,11.20198 17.1494703,-4.62059 8.822976,-15.82257 -17.7008587,-4.01818 -5.083336,-17.01805 12.617523,-12.99987 1.609968,13.86444 17.162174,4.57318 15.552206,-9.29125 -13.320306,-12.33027 4.106725,-17.27972 17.427032,-4.94946 -5.537946,12.81194 12.576288,12.54158 18.114233,-0.27037 -5.370588,-17.33848 12.196392,-12.91133 17.566981,4.42716 -11.201973,8.3265 4.620595,17.14947 15.822567,8.82298 4.018174,-17.70085 17.018046,-5.08333 12.999872,12.61752 -13.86444,1.60997 -4.573183,17.16217 9.291257,15.55221 12.330271,-13.3203 17.279728,4.10673 4.94946,17.42703 -12.811941,-5.53795 -12.541579,12.57629 0.270362,18.11423 17.338479,-5.37059 12.911321,12.19639 -4.42716,17.56698 -8.326493,-11.20197 -17.14947,4.62059 -8.822977,15.82257 17.700858,4.01818 5.083335,17.01805 z" />
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="285.27567"
+   height="285.27567"
+   viewBox="0 0 75.479186 75.479186"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title815">8 Slice Pie</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>8 Slice Pie</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>©2020 Bryan McWhirt  ALL RIGHTS RESERVED</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>English</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(107.54446,-15.349553)">
+    <g
+       id="g2414"
+       style="display:inline"
+       transform="translate(-173.39777,-50.421589)">
+      <g
+         id="g1695">
+        <circle
+           style="display:inline;opacity:0.996;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1594"
+           cx="103.63586"
+           cy="103.44286"
+           r="36.858059" />
+        <circle
+           style="opacity:0.996;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1596"
+           cx="103.63586"
+           cy="103.44286"
+           r="30.633696" />
+        <circle
+           style="opacity:0.996;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1598"
+           cx="103.63586"
+           cy="103.44286"
+           r="24.409332" />
+        <circle
+           style="opacity:0.996;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1600"
+           cx="103.63586"
+           cy="103.44286"
+           r="13.474639" />
+        <circle
+           style="opacity:0.996;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1608"
+           cx="103.63495"
+           cy="103.44238"
+           r="18.52142" />
+      </g>
+      <path
+         id="use1711"
+         style="color:#000000;display:inline;fill:#000000;stroke:#ffffff;stroke-width:4.53543;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         transform="scale(0.26458333)"
+         d="M 389.97852,250.85156 V 388.125 l -96.93164,-96.93164 -1.875,1.875 97.06445,97.06445 H 251.16211 v 2.64258 h 137.27344 l -96.93164,96.93164 1.86718,1.875 97.07227,-97.07226 V 531.5918 h 2.64258 V 394.31836 l 96.93164,96.93164 1.86719,-1.86719 -97.06446,-97.06445 h 137.08203 v -2.65039 H 394.62891 l 96.93164,-96.93164 -1.875,-1.86719 -97.06446,97.06445 V 250.85156 Z" />
+    </g>
+  </g>
+</svg>

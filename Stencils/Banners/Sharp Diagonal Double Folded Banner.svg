@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="254.27235"
+   height="68.186996"
+   viewBox="0 0 67.276225 18.041143"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title815">Sharp Diagonal Double Folded Banner</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Sharp Diagonal Double Folded Banner</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>©2020 Bryan McWhirt  ALL RIGHTS RESERVED</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>English</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(141.29641,-89.578439)">
+    <path
+       id="path26016"
+       style="display:inline;opacity:0.996;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.330729;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m -85.99555,102.6982 -5.92405,4.57756 0.12226,-4.62768 m 5.80782,-2.755612 h 11.56709 l -3.70416,3.674942 3.70416,3.67495 -17.41365,-0.0334 5.85486,-4.62768 z m -43.26476,-5.39266 5.92402,-4.577546 -0.12226,4.627666 m -5.87461,2.755612 h -11.56703 l 3.70415,-3.674939 -3.70415,-3.674939 17.41356,0.0334 -5.85483,4.627666 z m 0.0585,-2.742312 v 8.018042 h 21.61022 21.61035 v -8.018042 h -21.61035 z" />
+  </g>
+</svg>

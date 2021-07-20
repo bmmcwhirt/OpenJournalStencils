@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="93.548958"
+   height="93.548958"
+   viewBox="0 0 24.751495 24.751496"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title815">12 Point Gear</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>12 Point Gear</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>©2020 Bryan McWhirt  ALL RIGHTS RESERVED</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>English</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(104.90907,-31.529545)">
+    <path
+       style="display:inline;opacity:0.996;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.442;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path25008"
+       transform="matrix(0.26458333,0,0,0.26458333,-106.43134,-5.0050333)"
+       d="m 86.873117,218.19296 c -7.640477,7.87201 -6.517256,-8.14504 -15.934816,-2.51877 -9.417559,5.62628 5.218768,12.2282 -5.334083,15.22531 -10.552851,2.99712 -1.57159,-10.31243 -12.540573,-10.14872 -10.968983,0.16372 -1.59451,13.19931 -12.232107,10.51847 -10.637597,-2.68085 3.795183,-9.71663 -5.786093,-15.05934 -9.581276,-5.34271 -7.980541,10.63368 -15.852547,2.9932 -7.872008,-7.64048 8.145038,-6.51725 2.518764,-15.93481 C 16.085389,193.85074 9.4834714,208.48706 6.4863522,197.93421 3.4892329,187.38136 16.798791,196.36262 16.635074,185.39364 16.471358,174.42466 3.4357666,183.79913 6.1166107,173.16153 c 2.6808443,-10.63759 9.7166283,3.79519 15.0593383,-5.78609 5.342709,-9.58128 -10.633681,-7.98054 -2.993204,-15.85255 7.640478,-7.87201 6.517256,8.14504 15.934816,2.51877 9.41756,-5.62628 -5.218768,-12.22819 5.334083,-15.22531 10.552852,-2.99712 1.57159,10.31243 12.540573,10.14872 10.968983,-0.16372 1.594511,-13.19931 12.232107,-10.51847 10.637597,2.68085 -3.795182,9.71663 5.786094,15.05934 9.581276,5.34271 7.98054,-10.63368 15.852547,-2.9932 7.872007,7.64048 -8.145039,6.51726 -2.518765,15.93482 5.626274,9.41755 12.228191,-5.21877 15.22531,5.33408 2.99712,10.55285 -10.312438,1.57159 -10.148722,12.54057 0.163716,10.96898 13.199312,1.59451 10.518464,12.23211 -2.680845,10.6376 -9.716629,-3.79518 -15.059338,5.78609 -5.342709,9.58128 10.633681,7.98054 2.993203,15.85255 z" />
+  </g>
+</svg>
