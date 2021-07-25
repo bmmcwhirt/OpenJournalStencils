@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="69.404053"
+   height="25.141253"
+   viewBox="0 0 18.363155 6.6519566"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Attention Arrow.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview82214"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="16.512004"
+     inkscape:cx="29.705661"
+     inkscape:cy="12.566615"
+     inkscape:window-width="1271"
+     inkscape:window-height="1045"
+     inkscape:window-x="1039"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title815">Attention Arrow</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Attention Arrow</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>©2021 Bryan McWhirt </dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bryan McWhirt</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>English</dc:language>
+        <dc:source>https://github.com/bmmcwhirt/OpenJournalStencils</dc:source>
+        <dc:date>2021.07.25</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-50.538661,25.248597)">
+    <path
+       id="path3827"
+       style="display:inline;opacity:0.996;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1.78475;stroke-linecap:square;paint-order:stroke fill markers"
+       d="m 64.602935,-25.248597 c 0.09914,0.676631 0.159203,1.353023 0.184246,2.026568 -2.008912,-1.046584 -4.264826,-1.663545 -6.701272,-1.51797 -2.860158,0.190866 -5.795935,1.621325 -7.547248,4.394193 0.841697,-0.239351 1.651043,-0.324182 2.416021,-0.284086 0.194923,0.757122 0.507462,1.445792 0.940648,2.033251 0.564919,-1.672008 2.482259,-3.002055 4.572242,-3.535706 1.783331,-0.472043 3.734547,-0.235422 5.649235,0.438818 -0.484417,0.450104 -0.93859,0.917676 -1.357883,1.401432 1.826796,-0.220159 4.024721,0.03052 6.142892,0.64648 -0.986566,-1.973077 -2.345826,-3.976384 -4.298881,-5.60298 z" />
+  </g>
+</svg>
